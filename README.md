@@ -31,3 +31,4 @@ Pull requests are welcome. For major changes, please open an issue first.
 MIT
 # Fix: handle None values properly
 // Added: new utility function
+# Updated logic for better readability
