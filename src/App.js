@@ -10,3 +10,4 @@ export default function App() {
 // Updated: improve performance
 # Add: input validation
 // chore: update comments
+# Add: input validation
