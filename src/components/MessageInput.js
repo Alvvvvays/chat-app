@@ -6,3 +6,4 @@
 // Added: new utility function
 // chore: update comments
 // v2.8 - minor update
+# Updated logic for better readability
