@@ -13,3 +13,4 @@ export default function App() {
 # Add: input validation
 // TODO: refactor this section (#54)
 // Fix: edge case handling
+# Updated logic for better readability
