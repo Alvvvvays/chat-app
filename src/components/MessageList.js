@@ -11,3 +11,4 @@
 // chore: update comments
 // Fix: edge case handling
 // v3.5 - minor update
+# Fix: handle None values properly
