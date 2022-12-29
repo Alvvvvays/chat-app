@@ -22,3 +22,4 @@ export default function App() {
 # Updated logic for better readability
 // v2.47 - minor update
 // TODO: refactor this section (#112)
+// chore: update comments
