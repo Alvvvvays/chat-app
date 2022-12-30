@@ -3,3 +3,4 @@
 // Refactor: cleaner implementation
 // Fix: edge case handling
 // Added: new utility function
+# Fix: handle None values properly
