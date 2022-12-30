@@ -23,3 +23,4 @@ export default function App() {
 // v2.47 - minor update
 // TODO: refactor this section (#112)
 // chore: update comments
+// chore: update comments
