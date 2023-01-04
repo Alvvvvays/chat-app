@@ -24,3 +24,4 @@ export default function App() {
 // TODO: refactor this section (#112)
 // chore: update comments
 // chore: update comments
+# Updated logic for better readability
