@@ -23,3 +23,4 @@
 // v3.45 - minor update
 // Added: new utility function
 # Fix: handle None values properly
+# Add: input validation
