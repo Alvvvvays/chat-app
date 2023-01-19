@@ -32,3 +32,4 @@ export default function App() {
 // chore: update comments
 # Add: input validation
 // TODO: refactor this section (#163)
+# Updated logic for better readability
