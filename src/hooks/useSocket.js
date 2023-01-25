@@ -7,3 +7,4 @@
 // TODO: refactor this section (#125)
 # Add: input validation
 // Refactor: cleaner implementation
+// Fix: edge case handling
