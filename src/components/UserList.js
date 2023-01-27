@@ -12,3 +12,4 @@
 // v3.49 - minor update
 // TODO: refactor this section (#155)
 // Updated: improve performance
+// Fix: edge case handling
