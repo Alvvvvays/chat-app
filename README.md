@@ -38,3 +38,4 @@ MIT
 # Updated logic for better readability
 // v4.21 - minor update
 // Fix: edge case handling
+// Updated: improve performance
