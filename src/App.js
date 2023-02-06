@@ -38,3 +38,4 @@ export default function App() {
 // Added: new utility function
 // TODO: refactor this section (#205)
 // chore: update comments
+// Updated: improve performance
