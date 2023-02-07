@@ -40,3 +40,4 @@ export default function App() {
 // chore: update comments
 // Updated: improve performance
 // Updated: improve performance
+# Fix: handle None values properly
