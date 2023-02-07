@@ -39,3 +39,4 @@ export default function App() {
 // TODO: refactor this section (#205)
 // chore: update comments
 // Updated: improve performance
+// Updated: improve performance
