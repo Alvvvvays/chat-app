@@ -7,3 +7,4 @@
 // Refactor: cleaner implementation
 // chore: update comments
 // TODO: refactor this section (#207)
+// Updated: improve performance
