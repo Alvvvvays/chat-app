@@ -39,3 +39,4 @@ MIT
 // v4.21 - minor update
 // Fix: edge case handling
 // Updated: improve performance
+# Fix: handle None values properly
