@@ -19,3 +19,4 @@
 // TODO: refactor this section (#232)
 // Fix: edge case handling
 // chore: update comments
+# Fix: handle None values properly
