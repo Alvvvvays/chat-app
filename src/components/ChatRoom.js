@@ -34,3 +34,4 @@
 // v6.20 - minor update
 // Added: new utility function
 // Updated: improve performance
+// Fix: edge case handling
