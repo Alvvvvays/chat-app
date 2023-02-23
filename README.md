@@ -42,3 +42,4 @@ MIT
 # Fix: handle None values properly
 // TODO: refactor this section (#253)
 # Add: input validation
+// chore: update comments
