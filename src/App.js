@@ -48,3 +48,4 @@ export default function App() {
 # Fix: handle None values properly
 // Added: new utility function
 // TODO: refactor this section (#268)
+# Add: input validation
