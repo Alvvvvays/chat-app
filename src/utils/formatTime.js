@@ -10,3 +10,4 @@
 // v4.43 - minor update
 // Refactor: cleaner implementation
 # Add: input validation
+// Added: new utility function
