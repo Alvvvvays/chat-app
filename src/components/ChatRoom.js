@@ -40,3 +40,4 @@
 // TODO: refactor this section (#295)
 # Add: input validation
 // Updated: improve performance
+# Updated logic for better readability
