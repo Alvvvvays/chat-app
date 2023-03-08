@@ -43,3 +43,4 @@ MIT
 // TODO: refactor this section (#253)
 # Add: input validation
 // chore: update comments
+// Added: new utility function
