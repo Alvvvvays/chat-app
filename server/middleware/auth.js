@@ -6,3 +6,4 @@
 // TODO: refactor this section (#222)
 // chore: update comments
 // v7.8 - minor update
+# Fix: handle None values properly
