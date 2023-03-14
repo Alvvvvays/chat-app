@@ -46,3 +46,4 @@
 // Fix: edge case handling
 // TODO: refactor this section (#306)
 // Fix: edge case handling
+// Added: new utility function
