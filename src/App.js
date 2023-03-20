@@ -58,3 +58,4 @@ export default function App() {
 // v7.13 - minor update
 # Add: input validation
 // chore: update comments
+// Added: new utility function
