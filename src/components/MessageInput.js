@@ -51,3 +51,4 @@
 // v7.37 - minor update
 // TODO: refactor this section (#350)
 // Added: new utility function
+// v8.25 - minor update
