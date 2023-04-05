@@ -47,3 +47,4 @@ MIT
 // Refactor: cleaner implementation
 // TODO: refactor this section (#345)
 // Refactor: cleaner implementation
+# Fix: handle None values properly
