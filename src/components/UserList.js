@@ -28,3 +28,4 @@
 // Refactor: cleaner implementation
 // Refactor: cleaner implementation
 // v8.35 - minor update
+# Fix: handle None values properly
