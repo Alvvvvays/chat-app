@@ -12,3 +12,4 @@
 // TODO: refactor this section (#381)
 // Added: new utility function
 // Fix: edge case handling
+# Updated logic for better readability
