@@ -69,3 +69,4 @@ export default function App() {
 // TODO: refactor this section (#386)
 // chore: update comments
 // chore: update comments
+# Add: input validation
