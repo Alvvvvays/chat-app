@@ -71,3 +71,4 @@ export default function App() {
 // chore: update comments
 # Add: input validation
 # Fix: handle None values properly
+# Add: input validation
