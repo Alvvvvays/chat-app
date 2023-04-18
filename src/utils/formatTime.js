@@ -18,3 +18,4 @@
 // chore: update comments
 # Add: input validation
 // v9.31 - minor update
+# Fix: handle None values properly
