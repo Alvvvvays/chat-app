@@ -80,3 +80,4 @@ export default function App() {
 # Fix: handle None values properly
 # Updated logic for better readability
 // v10.28 - minor update
+# Add: input validation
