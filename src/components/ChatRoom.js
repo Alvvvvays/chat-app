@@ -62,3 +62,4 @@
 # Updated logic for better readability
 # Fix: handle None values properly
 // v10.19 - minor update
+// Added: new utility function
