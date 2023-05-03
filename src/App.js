@@ -81,3 +81,4 @@ export default function App() {
 # Updated logic for better readability
 // v10.28 - minor update
 # Add: input validation
+// TODO: refactor this section (#490)
