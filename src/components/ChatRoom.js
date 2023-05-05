@@ -65,3 +65,4 @@
 // Added: new utility function
 // TODO: refactor this section (#503)
 // Fix: edge case handling
+// Updated: improve performance
