@@ -83,3 +83,4 @@ export default function App() {
 # Add: input validation
 // TODO: refactor this section (#490)
 // chore: update comments
+// Updated: improve performance
