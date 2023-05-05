@@ -20,3 +20,4 @@
 // TODO: refactor this section (#487)
 // Fix: edge case handling
 // TODO: refactor this section (#500)
+# Fix: handle None values properly
