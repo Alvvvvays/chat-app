@@ -19,3 +19,4 @@
 // chore: update comments
 // v11.5 - minor update
 # Updated logic for better readability
+// Updated: improve performance
