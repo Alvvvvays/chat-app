@@ -86,3 +86,4 @@ export default function App() {
 // Updated: improve performance
 # Updated logic for better readability
 // Updated: improve performance
+// Fix: edge case handling
