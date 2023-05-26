@@ -69,3 +69,4 @@
 # Fix: handle None values properly
 // chore: update comments
 # Fix: handle None values properly
+// Added: new utility function
