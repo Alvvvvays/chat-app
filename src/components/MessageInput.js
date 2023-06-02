@@ -73,3 +73,4 @@
 // chore: update comments
 // TODO: refactor this section (#563)
 // Updated: improve performance
+// Refactor: cleaner implementation
