@@ -79,3 +79,4 @@
 # Fix: handle None values properly
 # Updated logic for better readability
 // Refactor: cleaner implementation
+// Added: new utility function
