@@ -58,3 +58,4 @@ MIT
 // Refactor: cleaner implementation
 // chore: update comments
 // TODO: refactor this section (#600)
+# Fix: handle None values properly
