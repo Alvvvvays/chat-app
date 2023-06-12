@@ -83,3 +83,4 @@
 # Updated logic for better readability
 // TODO: refactor this section (#610)
 # Updated logic for better readability
+// Refactor: cleaner implementation
