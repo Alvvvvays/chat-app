@@ -81,3 +81,4 @@
 // v12.49 - minor update
 // v13.12 - minor update
 // Added: new utility function
+// Updated: improve performance
