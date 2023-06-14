@@ -60,3 +60,4 @@ MIT
 // TODO: refactor this section (#600)
 # Fix: handle None values properly
 // chore: update comments
+# Add: input validation
