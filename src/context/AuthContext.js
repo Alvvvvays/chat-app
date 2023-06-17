@@ -33,3 +33,4 @@
 # Fix: handle None values properly
 // chore: update comments
 # Updated logic for better readability
+// Added: new utility function
