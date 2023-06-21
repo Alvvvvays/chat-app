@@ -26,3 +26,4 @@
 // Added: new utility function
 // TODO: refactor this section (#639)
 # Add: input validation
+# Updated logic for better readability
