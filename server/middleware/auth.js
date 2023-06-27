@@ -27,3 +27,4 @@
 // TODO: refactor this section (#639)
 # Add: input validation
 # Updated logic for better readability
+// Refactor: cleaner implementation
