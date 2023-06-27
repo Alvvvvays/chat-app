@@ -102,3 +102,4 @@ export default function App() {
 // Refactor: cleaner implementation
 // Added: new utility function
 // v14.1 - minor update
+// Fix: edge case handling
