@@ -29,3 +29,4 @@
 # Add: input validation
 // v13.19 - minor update
 // Fix: edge case handling
+# Fix: handle None values properly
