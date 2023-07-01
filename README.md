@@ -63,3 +63,4 @@ MIT
 # Add: input validation
 // TODO: refactor this section (#630)
 // chore: update comments
+// Updated: improve performance
