@@ -64,3 +64,4 @@ MIT
 // TODO: refactor this section (#630)
 // chore: update comments
 // Updated: improve performance
+// Refactor: cleaner implementation
