@@ -109,3 +109,4 @@ export default function App() {
 // Added: new utility function
 // TODO: refactor this section (#690)
 // Updated: improve performance
+// Refactor: cleaner implementation
