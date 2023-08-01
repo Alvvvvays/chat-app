@@ -36,3 +36,4 @@
 # Updated logic for better readability
 # Fix: handle None values properly
 // TODO: refactor this section (#749)
+// Refactor: cleaner implementation
