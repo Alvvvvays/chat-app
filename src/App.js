@@ -120,3 +120,4 @@ export default function App() {
 // TODO: refactor this section (#771)
 # Updated logic for better readability
 // Refactor: cleaner implementation
+// Updated: improve performance
