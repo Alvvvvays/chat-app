@@ -113,3 +113,4 @@
 // TODO: refactor this section (#791)
 // chore: update comments
 # Add: input validation
+# Fix: handle None values properly
