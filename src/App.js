@@ -123,3 +123,4 @@ export default function App() {
 // Updated: improve performance
 // chore: update comments
 // Fix: edge case handling
+# Add: input validation
