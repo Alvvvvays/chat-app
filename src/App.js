@@ -122,3 +122,4 @@ export default function App() {
 // Refactor: cleaner implementation
 // Updated: improve performance
 // chore: update comments
+// Fix: edge case handling
