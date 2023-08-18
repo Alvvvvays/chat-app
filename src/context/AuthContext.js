@@ -42,3 +42,4 @@
 // Updated: improve performance
 // Updated: improve performance
 // TODO: refactor this section (#816)
+// Added: new utility function
