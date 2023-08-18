@@ -128,3 +128,4 @@ export default function App() {
 // Fix: edge case handling
 // Updated: improve performance
 // Fix: edge case handling
+// Added: new utility function
