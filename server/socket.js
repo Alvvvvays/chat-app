@@ -34,3 +34,4 @@
 # Updated logic for better readability
 // v17.33 - minor update
 // v17.47 - minor update
+# Fix: handle None values properly
