@@ -71,3 +71,4 @@ MIT
 # Fix: handle None values properly
 # Fix: handle None values properly
 // chore: update comments
+// Updated: improve performance
