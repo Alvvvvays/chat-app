@@ -139,3 +139,4 @@ export default function App() {
 // Fix: edge case handling
 // Added: new utility function
 // TODO: refactor this section (#899)
+// Refactor: cleaner implementation
