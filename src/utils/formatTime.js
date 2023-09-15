@@ -34,3 +34,4 @@
 // Updated: improve performance
 // v17.13 - minor update
 // TODO: refactor this section (#874)
+// chore: update comments
