@@ -46,3 +46,4 @@
 # Add: input validation
 // Refactor: cleaner implementation
 // TODO: refactor this section (#905)
+# Fix: handle None values properly
