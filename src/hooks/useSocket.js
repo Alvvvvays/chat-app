@@ -49,3 +49,4 @@
 # Fix: handle None values properly
 // TODO: refactor this section (#916)
 // v19.22 - minor update
+// chore: update comments
