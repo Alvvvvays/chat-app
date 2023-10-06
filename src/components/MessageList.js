@@ -126,3 +126,4 @@
 # Fix: handle None values properly
 // chore: update comments
 // TODO: refactor this section (#967)
+// Added: new utility function
