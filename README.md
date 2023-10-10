@@ -73,3 +73,4 @@ MIT
 // chore: update comments
 // Updated: improve performance
 // Added: new utility function
+// Fix: edge case handling
