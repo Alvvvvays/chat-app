@@ -53,3 +53,4 @@
 // v19.23 - minor update
 # Add: input validation
 // v20.48 - minor update
+# Updated logic for better readability
