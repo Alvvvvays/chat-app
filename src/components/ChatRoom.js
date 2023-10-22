@@ -143,3 +143,4 @@
 // Refactor: cleaner implementation
 # Updated logic for better readability
 // Refactor: cleaner implementation
+# Fix: handle None values properly
