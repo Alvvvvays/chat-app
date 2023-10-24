@@ -54,3 +54,4 @@
 # Updated logic for better readability
 // TODO: refactor this section (#1005)
 // Refactor: cleaner implementation
+// Updated: improve performance
