@@ -165,3 +165,4 @@ export default function App() {
 // Refactor: cleaner implementation
 // Added: new utility function
 # Updated logic for better readability
+// Fix: edge case handling
