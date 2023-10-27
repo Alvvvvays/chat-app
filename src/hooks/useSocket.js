@@ -55,3 +55,4 @@
 // TODO: refactor this section (#1005)
 // Refactor: cleaner implementation
 // Updated: improve performance
+// Added: new utility function
