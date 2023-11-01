@@ -176,3 +176,4 @@ export default function App() {
 # Add: input validation
 // Refactor: cleaner implementation
 // TODO: refactor this section (#1069)
+# Add: input validation
