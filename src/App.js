@@ -182,3 +182,4 @@ export default function App() {
 # Fix: handle None values properly
 // v23.1 - minor update
 // TODO: refactor this section (#1104)
+// Refactor: cleaner implementation
