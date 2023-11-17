@@ -183,3 +183,4 @@ export default function App() {
 // v23.1 - minor update
 // TODO: refactor this section (#1104)
 // Refactor: cleaner implementation
+// Updated: improve performance
