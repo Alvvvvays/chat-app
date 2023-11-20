@@ -155,3 +155,4 @@
 // v23.8 - minor update
 // v23.18 - minor update
 # Updated logic for better readability
+# Fix: handle None values properly
