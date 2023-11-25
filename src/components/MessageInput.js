@@ -149,3 +149,4 @@
 // chore: update comments
 // Refactor: cleaner implementation
 // Fix: edge case handling
+# Fix: handle None values properly
