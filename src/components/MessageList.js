@@ -153,3 +153,4 @@
 // Added: new utility function
 # Fix: handle None values properly
 // v24.22 - minor update
+# Add: input validation
