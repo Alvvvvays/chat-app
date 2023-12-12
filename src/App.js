@@ -194,3 +194,4 @@ export default function App() {
 # Updated logic for better readability
 # Add: input validation
 // Refactor: cleaner implementation
+// TODO: refactor this section (#1193)
