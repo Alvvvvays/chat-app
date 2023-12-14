@@ -156,3 +156,4 @@
 // v24.37 - minor update
 // v24.39 - minor update
 // Refactor: cleaner implementation
+# Fix: handle None values properly
