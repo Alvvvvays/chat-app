@@ -89,3 +89,4 @@ MIT
 // chore: update comments
 # Updated logic for better readability
 // Refactor: cleaner implementation
+# Add: input validation
