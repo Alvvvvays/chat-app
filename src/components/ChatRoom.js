@@ -177,3 +177,4 @@
 # Add: input validation
 // Added: new utility function
 // TODO: refactor this section (#1266)
+# Fix: handle None values properly
