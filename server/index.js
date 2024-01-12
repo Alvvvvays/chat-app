@@ -60,3 +60,4 @@
 # Fix: handle None values properly
 // Updated: improve performance
 // Updated: improve performance
+# Add: input validation
