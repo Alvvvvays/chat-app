@@ -56,3 +56,4 @@
 // v24.20 - minor update
 // v25.16 - minor update
 # Fix: handle None values properly
+# Add: input validation
