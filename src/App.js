@@ -212,3 +212,4 @@ export default function App() {
 // v27.7 - minor update
 // chore: update comments
 // Updated: improve performance
+# Add: input validation
