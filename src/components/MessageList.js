@@ -173,3 +173,4 @@
 // v27.4 - minor update
 // Updated: improve performance
 // v27.11 - minor update
+// Fix: edge case handling
