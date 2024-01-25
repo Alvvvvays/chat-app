@@ -213,3 +213,4 @@ export default function App() {
 // chore: update comments
 // Updated: improve performance
 # Add: input validation
+# Fix: handle None values properly
