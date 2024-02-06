@@ -179,3 +179,4 @@
 // v27.40 - minor update
 // Updated: improve performance
 // Fix: edge case handling
+# Fix: handle None values properly
