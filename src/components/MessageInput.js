@@ -178,3 +178,4 @@
 # Updated logic for better readability
 # Add: input validation
 // v28.2 - minor update
+# Fix: handle None values properly
