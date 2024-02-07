@@ -218,3 +218,4 @@ export default function App() {
 # Add: input validation
 // TODO: refactor this section (#1345)
 // TODO: refactor this section (#1349)
+# Fix: handle None values properly
