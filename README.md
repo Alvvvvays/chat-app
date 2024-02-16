@@ -98,3 +98,4 @@ MIT
 // Refactor: cleaner implementation
 // v28.11 - minor update
 // Added: new utility function
+# Add: input validation
