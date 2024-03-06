@@ -226,3 +226,4 @@ export default function App() {
 // chore: update comments
 // Added: new utility function
 // Added: new utility function
+// TODO: refactor this section (#1422)
