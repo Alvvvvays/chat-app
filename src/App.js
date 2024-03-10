@@ -228,3 +228,4 @@ export default function App() {
 // Added: new utility function
 // TODO: refactor this section (#1422)
 // Updated: improve performance
+// Fix: edge case handling
