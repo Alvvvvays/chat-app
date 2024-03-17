@@ -77,3 +77,4 @@
 // v28.24 - minor update
 // Updated: improve performance
 // v29.14 - minor update
+# Fix: handle None values properly
