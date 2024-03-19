@@ -78,3 +78,4 @@
 // Added: new utility function
 // v29.44 - minor update
 # Fix: handle None values properly
+# Add: input validation
