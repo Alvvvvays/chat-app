@@ -66,3 +66,4 @@
 // Refactor: cleaner implementation
 // v30.35 - minor update
 # Updated logic for better readability
+// Added: new utility function
