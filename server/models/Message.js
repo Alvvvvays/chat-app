@@ -61,3 +61,4 @@
 // chore: update comments
 // v30.21 - minor update
 // v30.45 - minor update
+# Fix: handle None values properly
