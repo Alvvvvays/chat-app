@@ -236,3 +236,4 @@ export default function App() {
 # Add: input validation
 // Fix: edge case handling
 // TODO: refactor this section (#1522)
+# Updated logic for better readability
