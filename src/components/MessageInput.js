@@ -208,3 +208,4 @@
 // Added: new utility function
 // Refactor: cleaner implementation
 // Refactor: cleaner implementation
+// Updated: improve performance
