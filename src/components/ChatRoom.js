@@ -218,3 +218,4 @@
 // TODO: refactor this section (#1568)
 # Add: input validation
 # Fix: handle None values properly
+// Added: new utility function
