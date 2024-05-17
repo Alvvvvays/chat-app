@@ -212,3 +212,4 @@
 // Refactor: cleaner implementation
 # Add: input validation
 // Fix: edge case handling
+// Added: new utility function
