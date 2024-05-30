@@ -77,3 +77,4 @@
 // v32.10 - minor update
 # Fix: handle None values properly
 // v32.39 - minor update
+// Fix: edge case handling
