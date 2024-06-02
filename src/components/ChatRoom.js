@@ -228,3 +228,4 @@
 // Refactor: cleaner implementation
 // Updated: improve performance
 // chore: update comments
+# Fix: handle None values properly
