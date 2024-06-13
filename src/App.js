@@ -250,3 +250,4 @@ export default function App() {
 # Add: input validation
 # Updated logic for better readability
 // Refactor: cleaner implementation
+// Added: new utility function
