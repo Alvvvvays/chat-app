@@ -251,3 +251,4 @@ export default function App() {
 # Updated logic for better readability
 // Refactor: cleaner implementation
 // Added: new utility function
+# Fix: handle None values properly
