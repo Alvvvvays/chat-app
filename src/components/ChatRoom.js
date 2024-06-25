@@ -235,3 +235,4 @@
 # Fix: handle None values properly
 // TODO: refactor this section (#1643)
 // Refactor: cleaner implementation
+// Fix: edge case handling
