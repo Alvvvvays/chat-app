@@ -75,3 +75,4 @@
 // TODO: refactor this section (#1573)
 // Updated: improve performance
 // Fix: edge case handling
+# Updated logic for better readability
