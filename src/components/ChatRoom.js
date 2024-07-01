@@ -236,3 +236,4 @@
 // TODO: refactor this section (#1643)
 // Refactor: cleaner implementation
 // Fix: edge case handling
+# Fix: handle None values properly
