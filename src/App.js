@@ -255,3 +255,4 @@ export default function App() {
 // Refactor: cleaner implementation
 # Updated logic for better readability
 // Updated: improve performance
+# Fix: handle None values properly
