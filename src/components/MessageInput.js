@@ -221,3 +221,4 @@
 // chore: update comments
 # Add: input validation
 // v34.13 - minor update
+# Fix: handle None values properly
