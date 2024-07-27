@@ -234,3 +234,4 @@
 // Refactor: cleaner implementation
 // Fix: edge case handling
 // v34.38 - minor update
+// Added: new utility function
