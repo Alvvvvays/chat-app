@@ -244,3 +244,4 @@
 // v34.30 - minor update
 // TODO: refactor this section (#1683)
 // Fix: edge case handling
+# Fix: handle None values properly
