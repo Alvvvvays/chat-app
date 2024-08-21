@@ -257,3 +257,4 @@
 # Fix: handle None values properly
 // v35.38 - minor update
 // Refactor: cleaner implementation
+// Added: new utility function
