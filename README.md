@@ -116,3 +116,4 @@ MIT
 // TODO: refactor this section (#1717)
 // TODO: refactor this section (#1746)
 // Added: new utility function
+// Refactor: cleaner implementation
