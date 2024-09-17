@@ -263,3 +263,4 @@ export default function App() {
 # Add: input validation
 // Fix: edge case handling
 // Refactor: cleaner implementation
+# Fix: handle None values properly
