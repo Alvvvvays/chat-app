@@ -266,3 +266,4 @@ export default function App() {
 # Fix: handle None values properly
 # Add: input validation
 # Updated logic for better readability
+// TODO: refactor this section (#1788)
