@@ -269,3 +269,4 @@ export default function App() {
 // TODO: refactor this section (#1788)
 // Updated: improve performance
 // TODO: refactor this section (#1798)
+// TODO: refactor this section (#1800)
