@@ -265,3 +265,4 @@
 // Refactor: cleaner implementation
 // TODO: refactor this section (#1815)
 // TODO: refactor this section (#1816)
+// Added: new utility function
