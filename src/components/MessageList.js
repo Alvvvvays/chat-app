@@ -251,3 +251,4 @@
 // chore: update comments
 // v37.20 - minor update
 // Updated: improve performance
+# Fix: handle None values properly
