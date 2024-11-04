@@ -274,3 +274,4 @@ export default function App() {
 // Updated: improve performance
 # Add: input validation
 // Fix: edge case handling
+# Fix: handle None values properly
